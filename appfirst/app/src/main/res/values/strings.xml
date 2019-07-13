@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">app-first</string>
+    <string name="welcome_message">ola</string>
+</resources>
